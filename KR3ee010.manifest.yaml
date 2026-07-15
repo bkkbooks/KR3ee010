@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee010/v1
 canonical_location: https://kanripo.org/bkk/KR3ee010/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 經絡彙編
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee010_000.yaml, hash: 'sha256:8f921bb9d81a32284dca75eccc89bd2eba31f6e78cb4546ada23ed615acd2ca7'}
+  - {seq: 0, filename: KR3ee010_000.yaml, hash: 'sha256:277ef9de4827c85439519007ffe49356c6a24deafa94c71842a4fe9b80a511cd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee010_000.markers.yaml, hash: 'sha256:166c20877a5ede536dd324f42bd46db1437e3d5d28f1a8dbdac903af94a06bb3'}
+  - {seq: 0, role: markers, filename: assets/KR3ee010_000.markers.yaml, hash: 'sha256:625bd7e76681644e2460559d6dfb99364b170d9dd95db72ed06699d4aed6cf61'}
 table_of_contents:
 - ref:
     seq: 0
@@ -821,4 +821,7 @@ table_of_contents:
   label: 內景賦
   type: section
   level: 2
-hash: sha256:f8baeb105c5f748eb04473d8c3f8d71a97ccc4d047ffcbe2678200a13cfb321c
+hash: sha256:fc9458bc8917e0118bb6cc4cbd02391b226ef65c6a74765ccff936e741e4db3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
